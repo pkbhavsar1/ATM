@@ -256,6 +256,6 @@ public class Signup2 extends JFrame implements ActionListener {
     }
 
 //    public static void main(String[] args) {
-//        new Signup2("9147");
+//        new Signup2("1055");
 //    }
 }
