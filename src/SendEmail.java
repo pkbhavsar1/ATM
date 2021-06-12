@@ -144,7 +144,7 @@ public class SendEmail extends JFrame implements ActionListener {
         session = Session.getInstance(properties,new Authenticator(){
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("ab727668620@gmail.com","Golu@245701");
+                return new PasswordAuthentication("ab727668620@gmail.com","password_here");
             }
         });
 
